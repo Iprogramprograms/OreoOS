@@ -1,2 +1,2 @@
-# samn
+# OreoOS
 This is my OS.
