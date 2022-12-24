@@ -1,2 +1,2 @@
-# short-and-memorable-name
+# long-and-not-memorable-name
 This is my OS.
