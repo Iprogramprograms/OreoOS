@@ -1,2 +1,2 @@
-# long-and-not-memorable-name
+# samn
 This is my OS.
