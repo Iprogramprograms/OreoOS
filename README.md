@@ -1,2 +1,2 @@
-# OreoOS
-This is my OS.
+# ADIOS (funni name🧽)
+This is my coolest Operating System (just bootloader).
